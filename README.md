@@ -2,7 +2,10 @@
 - 👀 I’m interested in creative AEC software development, combining engineering expertise with programming skills to solve complex challenges.
 - 🌱 I’m currently learning advanced functional programming techniques.
 - 💞️ I’m looking to collaborate on innovative AEC solutions and financial data analysis tools that enhance efficiency and save time and money.
-- 📫 How to reach me: [https://www.facebook.com/MrVbaa/][https://www.linkedin.com/in/muhammedsadat/][https://www.youtube.com/channel/UCEabo9dc0Ef6S8bwbSiC-dA]
+- 📫 How to reach me:
+- [https://www.facebook.com/MrVbaa/]
+- [https://www.linkedin.com/in/muhammedsadat/]
+- [https://www.youtube.com/channel/UCEabo9dc0Ef6S8bwbSiC-dA]
 - ⚡ Fun fact: I enjoy exploring new technologies and methodologies to constantly improve my problem-solving abilities and develop cutting-edge solutions.
 
 ### Skills and Expertise
